@@ -91,32 +91,7 @@ Replace with your exported CSV. Example directional conclusions for this window:
 5. Export results:
    - Click **Save Results** → **CSV**.
    - Save as `results/new_vs_returning.csv` or `results/acquisition_efficiency.csv`.
-6. Update this README (optional) with key numeric highlights from your results.
-
----
-
-## Project Structure
-
-```
-.
-├── queries/
-│   ├── acquisition_efficiency.sql
-│   └── new_vs_returning.sql
-├── results/
-│   ├── acquisition_efficiency.csv      # place your exported results here
-│   └── new_vs_returning.csv            # place your exported results here
-└── README.md
-```
-
----
-
-## Final Touches (portfolio polish)
-
-- Add a short project **description** and **topics** in the GitHub repo (e.g., `sql`, `bigquery`, `google-analytics`, `marketing-analytics`).
-- Include a **LICENSE** (MIT is common for portfolios).
-- Pin this repo to your GitHub profile.
-- Optional: add a **social preview image** (Settings → Social preview) for a professional card when sharing the link.
-- Keep commit messages clear (e.g., "Add channel ROI query", "Export results for Jan–Mar 2017").
+6. Update this README with key numeric highlights from your results.
 
 ---
 
